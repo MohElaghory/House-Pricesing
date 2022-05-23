@@ -1,5 +1,7 @@
 # House Pricesing
 
+![housing-prices-420x0](https://user-images.githubusercontent.com/44786324/169750953-e6f44e3f-6df2-4474-8f48-4c7c51f75813.jpg)
+
 **Data fields**:
 
 Here's a brief version of what you'll find in the data description file.
